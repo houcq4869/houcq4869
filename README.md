@@ -25,50 +25,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   35.75 % 
-C++                      51 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-Bash                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-GN                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Other                    1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   32.88 % 
+C++                      51 mins             ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+Bash                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+GN                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        ████████████░░░░░░░░░░░░░   49.19 % 
-Opencode Cli             1 hr 26 mins        ███████████░░░░░░░░░░░░░░   42.72 % 
-OpenCode                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+VS Code                  1 hr 39 mins        █████████████░░░░░░░░░░░░   51.39 % 
+Opencode Cli             1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   40.16 % 
+OpenCode                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 🐱‍💻 Projects: 
-houcq                    1 hr 32 mins        ███████████░░░░░░░░░░░░░░   45.75 % 
-graphic_2d               56 mins             ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-fast_scale               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-system_application_analys8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+houcq                    1 hr 32 mins        ████████████░░░░░░░░░░░░░   47.80 % 
+graphic_2d               56 mins             ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+fast_scale               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+oh_lts                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 💻 Operating System: 
-WSL                      3 hrs 21 mins       █████████████████████████   100.00 % 
+WSL                      3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 9 mins (64.08%)
+⏱ AI Coding Time: 2 hrs (62.48%)
 
 ✍️ 2 lines written by AI, 49 lines written by hand (3.92% AI-written)
 
-🔤 1,045,656 Input Tokens, 100,909 Output Tokens
+🔤 464,247 Input Tokens, 97,068 Output Tokens
 
-💵 $23.65 Estimated AI Cost This Week
+💵 $20.05 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 23 AI Prompts
+🧠 6 AI Sessions, 21 AI Prompts
 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 3.92% of written lines came from AI
-📄 Detailed Prompter — average 688 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 745 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 96.83% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/11/2026 01:50:36 UTC
+ Last Updated on 28/11/2026 01:32:32 UTC
 <!--END_SECTION:waka-->
